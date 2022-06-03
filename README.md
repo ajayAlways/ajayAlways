@@ -17,16 +17,16 @@
 💡 &nbsp;Some technologies I enjoy working with include HTML/CSS, JavaScript, ReactJS, Angular, Django.\
 🌱 &nbsp;I'm on track for learning more about Blockchain Development, Backend Development, Data Bases and Cloud computing.\
 ✉️ &nbsp;You can find my Resume [here](https://tinyurl.com/ajay-veeraveni-resume).\
-✉️ &nbsp;You can reach out to me through mail at ajayveeraveni119@gmail.com! I will get back to you as soon as I find you.\
+✉️ &nbsp;You can reach out to me through mail at ajayveeraveni119@gmail.com! I will get back to you as soon as I find you.
 
 
-## Find me around the web 🌎 
-<img src="https://user-images.githubusercontent.com/54075270/171804781-ff358b50-d496-4c7b-91c6-b9bd02909fa6.gif" align=left width="150" height="auto" margin-right="20"/>
 
-  - Struggling on <a href="https://www.leetcode.com/ajay_11/">LeetCode</a> 😍
-  - Trending on <a href="https://twitter.com/alwaysajay_">Twitter</a> 😇
-  - Sharing on <a href="https://linkedin.com/in/ajayveeraveni119">Linkedin<a> 👨‍💼
-  - Chilling on <a href="https://instagram.com/_alwaysajay">Instagram<a> ❤️
+## Find me around the web 🌎 <a href="https://ajayveeraveni.me"><img align="left" width="140" height="150" src="https://user-images.githubusercontent.com/54075270/171809747-b0b5c182-d1d7-4a88-bed0-cd60971aeca3.gif"></a>
+
+  Struggling on <a href="https://www.leetcode.com/ajay_11/">LeetCode</a> 😍\
+  Trending on <a href="https://twitter.com/alwaysajay_">Twitter</a> 😇\
+  Sharing on <a href="https://linkedin.com/in/ajayveeraveni119">Linkedin<a> 👨‍💼\
+  Chilling on <a href="https://instagram.com/_alwaysajay">Instagram<a> ❤️
   
 
 
