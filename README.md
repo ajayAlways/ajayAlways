@@ -13,7 +13,7 @@
 
 <img alt="Night Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250" heigth="auto"/>
 
-🎓 &nbsp;I'm currently persuing my Final Year of Undergrad at National Institute of Technology, Warangal.\
+🎓 &nbsp;I'm recently graduated from National Institute of Technology, Warangal.\
 💡 &nbsp;Some technologies I enjoy working with include HTML/CSS, JavaScript, ReactJS, Angular, Django.\
 🌱 &nbsp;I'm on track for learning more about Blockchain Development, Backend Development, Data Bases and Cloud computing.\
 ✉️ &nbsp;You can find my Resume [here](https://tinyurl.com/ajay-veeraveni-resume).\
